@@ -1,0 +1,6 @@
+stm8l051f3_i2c.pbi: \
+  C:\Users\PCdmen\Desktop\stm32l152tc6\stm32l152c6\stm8l051f3_i2c.c \
+  C:\Users\PCdmen\Desktop\stm32l152tc6\stm32l152c6/stm8l051f3_i2c.h \
+  C:\Users\PCdmen\Desktop\stm32l152tc6\stm32l152c6/stm8l051f3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\PCdmen\Desktop\stm32l152tc6\stm32l152c6/stm8l051f3_clk.h

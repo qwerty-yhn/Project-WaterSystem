@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stm8l051f3_i2c.h": "c",
+        "lcd_1602.h": "c",
+        "charlcd.h": "c",
+        "stm8l051f3_usart.h": "c",
+        "stm8l051f3_exti.h": "c",
+        "stm8l051f3_tim4.h": "c",
+        "stm8l051f3_gpio.h": "c",
+        "stm8l051f3_clk.h": "c",
+        "adc_stm8l.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

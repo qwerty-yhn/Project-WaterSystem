@@ -1,0 +1,5 @@
+stm8l151f3_exti.pbi: \
+  C:\Users\PCdmen\Desktop\stm32l152tc6\stm32l152c6\stm8l151f3_exti.c \
+  C:\Users\PCdmen\Desktop\stm32l152tc6\stm32l152c6/stm8L051f3_exti.h \
+  C:\Users\PCdmen\Desktop\stm32l152tc6\stm32l152c6/stm8L051f3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h
